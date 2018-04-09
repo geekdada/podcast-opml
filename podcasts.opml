@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<opml version="1.0">
+	<head>
+		<title>Pocket Casts Feeds</title>
+	</head>
+	<body>
+		<outline text="feeds">
+			<outline type="rss" text="Accidental Tech Podcast" xmlUrl="http://atp.fm/episodes?format=rss" />
+			<outline type="rss" text="Under the Radar" xmlUrl="https://www.relay.fm/radar/feed" />
+			<outline type="rss" text="一天世界" xmlUrl="http://yitianshijie.net/rss" />
+			<outline type="rss" text="The Changelog" xmlUrl="https://changelog.com/podcast/feed" />
+			<outline type="rss" text="Mystery Show" xmlUrl="HTTP://Feeds.gimletmedia.com/mysteryshow" />
+			<outline type="rss" text="Serial" xmlUrl="http://feeds.serialpodcast.org/serialpodcast" />
+			<outline type="rss" text="Reply All" xmlUrl="HTTP://Feeds.gimletmedia.com/hearreplyall" />
+			<outline type="rss" text="Surprisingly Awesome" xmlUrl="http://feeds.gimletmedia.com/surprisinglyawesome" />
+			<outline type="rss" text="DTR" xmlUrl="http://feeds.gimletcreative.com/dtrshow" />
+			<outline type="rss" text="Ricky Gervais is Deadly Sirius" xmlUrl="http://deadlysiriussxm.libsyn.com/rss" />
+			<outline type="rss" text="The Talk Show With John Gruber" xmlUrl="https://daringfireball.net/thetalkshow/rss" />
+			<outline type="rss" text="Spotlight" xmlUrl="https://changelog.com/spotlight/feed" />
+			<outline type="rss" text="灭茶苦茶" xmlUrl="http://miechakucha.com/rss" />
+			<outline type="rss" text="机核网 GADIO 游戏广播" xmlUrl="http://feed.tangsuanradio.com/gadio.xml" />
+			<outline type="rss" text="Checked" xmlUrl="http://checked.fm/feed/podcast" />
+			<outline type="rss" text="S-Town" xmlUrl="http://feeds.stownpodcast.org/stownpodcast" />
+			<outline type="rss" text="太医来了" xmlUrl="http://taiyilaile.com/rss" />
+			<outline type="rss" text="迟早更新" xmlUrl="http://rss.lizhi.fm/rss/1728291.xml" />
+			<outline type="rss" text="比特新声" xmlUrl="https://banlan.show/bitvoice.rss" />
+			<outline type="rss" text="Homecoming" xmlUrl="http://feeds.gimletmedia.com/homecomingshow" />
+			<outline type="rss" text="Anyway.FM × 设计杂谈" xmlUrl="https://anyway.fm/rss.xml" />
+			<outline type="rss" text="The Anjunadeep Edition" xmlUrl="http://static.anjunadeep.com/edition/podcast.xml" />
+			<outline type="rss" text="Design Details" xmlUrl="https://rss.simplecast.com/podcasts/1034/rss" />
+			<outline type="rss" text="游戏时光VGtime" xmlUrl="http://nj.lizhi.fm/rss/2017105.xml" />
+			<outline type="rss" text="得意忘形播客" xmlUrl="http://rss.lizhi.fm/rss/1959617.xml" />
+			<outline type="rss" text="讨厌在城市读书" xmlUrl="http://www.ximalaya.com/album/12365010.xml" />
+			<outline type="rss" text="Layout" xmlUrl="http://layout.fm/rss" />
+			<outline type="rss" text="Rework" xmlUrl="http://feeds.feedburner.com/basecamp/rework" />
+			<outline type="rss" text="Above &amp; Beyond: Group Therapy" xmlUrl="http://static.aboveandbeyond.nu/grouptherapy/podcast.xml" />
+			<outline type="rss" text="The Kevin Rose Show" xmlUrl="https://rss.simplecast.com/podcasts/3408/rss" />
+			<outline type="rss" text="The Butterfly Effect with Jon Ronson" xmlUrl="http://thebutterflyeffect.audible.libsynpro.com/rss" />
+			<outline type="rss" text="大内密谈" xmlUrl="http://rss.lizhi.fm/rss/14275.xml" />
+			<outline type="rss" text="JS Party" xmlUrl="https://changelog.com/jsparty/feed" />
+		</outline>
+	</body>
+</opml>
